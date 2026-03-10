@@ -19,8 +19,8 @@ Backend integration with Epic's FHIR R4 APIs for [your app's purpose].
 - Epic on FHIR Portal: https://fhir.epic.com/
 - API Specifications: https://fhir.epic.com/Specifications
 - OAuth 2.0 Docs: https://fhir.epic.com/Documentation (OAuth 2.0 Tutorial)
-- Sandbox Test Data: https://fhir.epic.com/Documentation (Sandbox Test Data)
-- App Registration: https://open.epic.com/
+- Sandbox Test Data: [https://fhir.epic.com/Documentation ](https://fhir.epic.com/Documentation?docId=testpatients)(Sandbox Test Data)
+- App Registration: [ https://open.epic.com/](https://fhir.epic.com/Developer/Apps)
 
 ## App Details
 - Client ID: (store in .env, reference here as CLIENT_ID)
